@@ -10,7 +10,7 @@ class MojPrzypadekTestowy(unittest.TestCase):
     def testSelenium(self):
         print("test wlasciwy")
     def tearDown(self):
-        print("sprzatanie po tescie")
+        print("sprzatanie po tesciee")
 
 if __name__=='__main__':
     unittest.main()
